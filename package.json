@@ -1,5 +1,5 @@
 {
-  "name": "Express Grunt Starter",
+  "name": "express-livereload-grunt",
   "version": "0.0.1",
   "description": "A simple Express/Grunt Starter with livereload and watch",
   "scripts": {

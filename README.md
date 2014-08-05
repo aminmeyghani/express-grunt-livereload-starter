@@ -5,6 +5,6 @@ Express 4.
 
 	cd express-grunt-livereload-starter
 	npm install
-	grunt seve
+	grunt serve
 	
 That's it !
